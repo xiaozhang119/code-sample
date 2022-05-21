@@ -1,0 +1,19 @@
+{
+  "name": "code-sample",
+  "version": "1.0.0",
+  "description": "代码实现的示例库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaozhang119/code-sample.git"
+  },
+  "author": "xiaozhang119",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaozhang119/code-sample/issues"
+  },
+  "homepage": "https://github.com/xiaozhang119/code-sample#readme"
+}
